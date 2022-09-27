@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyFourthPlugin\bin\x64\Debug\MyFourthPlugin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyFourthPlugin\bin\x64\Debug\MyFourthPlugin.pdb
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyFourthPlugin\obj\x64\Debug\MyFourthPlugin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyFourthPlugin\obj\x64\Debug\MyFourthPlugin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyFourthPlugin\obj\x64\Debug\MyFourthPlugin.pdb
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyFourthPlugin\bin\x64\Debug\MyFourthAddin.addin

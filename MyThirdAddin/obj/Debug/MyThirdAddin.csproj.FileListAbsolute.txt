@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\bin\Debug\MyThirdAddin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\bin\Debug\MyThirdAddin.pdb
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\obj\Debug\MyThirdAddin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\obj\Debug\MyThirdAddin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\obj\Debug\MyThirdAddin.pdb

@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MySixthPlugin\bin\x64\Debug\MySixthPlugin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MySixthPlugin\bin\x64\Debug\MySixthPlugin.pdb
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MySixthPlugin\obj\x64\Debug\MySixthPlugin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MySixthPlugin\obj\x64\Debug\MySixthPlugin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MySixthPlugin\obj\x64\Debug\MySixthPlugin.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyEleventhPlugin\bin\Debug\MyEleventhPlugin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyEleventhPlugin\bin\Debug\MyEleventhPlugin.pdb
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyEleventhPlugin\obj\Debug\MyEleventhPlugin.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyEleventhPlugin\obj\Debug\MyEleventhPlugin.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyEleventhPlugin\obj\Debug\MyEleventhPlugin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyEleventhPlugin\obj\Debug\MyEleventhPlugin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyEleventhPlugin\obj\Debug\MyEleventhPlugin.pdb

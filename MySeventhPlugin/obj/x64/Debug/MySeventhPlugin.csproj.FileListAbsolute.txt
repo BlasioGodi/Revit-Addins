@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MySeventhPlugin\bin\x64\Debug\MySeventhPlugin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MySeventhPlugin\bin\x64\Debug\MySeventhPlugin.pdb
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MySeventhPlugin\obj\x64\Debug\MySeventhPlugin.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MySeventhPlugin\obj\x64\Debug\MySeventhPlugin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MySeventhPlugin\obj\x64\Debug\MySeventhPlugin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MySeventhPlugin\obj\x64\Debug\MySeventhPlugin.pdb

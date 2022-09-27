@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Blasio Muhinda</Name>
+		<Assembly>C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\bin\x64\Debug\MyThirdAddin.dll</Assembly>
+		<AddInId>604B1052-F742-4951-8576-C261D1993107</AddInId>
+		<FullClassName>MyThirdAddin.MyThirdAddin</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>

@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyFourteenthPlugin\bin\x64\Debug\MyFourteenthPlugin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyFourteenthPlugin\bin\x64\Debug\MyFourteenthPlugin.pdb
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyFourteenthPlugin\obj\x64\Debug\MyFourteenthPlugin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyFourteenthPlugin\obj\x64\Debug\MyFourteenthPlugin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyFourteenthPlugin\obj\x64\Debug\MyFourteenthPlugin.pdb
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyFourteenthPlugin\obj\x64\Debug\MyFourteenthPlugin.csproj.AssemblyReference.cache

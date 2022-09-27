@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone ="no"?>
+<RevitAddIns>
+	<AddIn Type ="Application">
+		<Name>ExcelSheetCreation</Name>
+		<Assembly>C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyFourthPlugin\bin\x64\Debug\MyFourthPlugin.dll</Assembly>
+		<AddInId>604B1052-F742-4951-8576-C261D1993107</AddInId>
+		<FullClassName>MyFourthPlugin.MyFourthAddin</FullClassName>
+		<VendorId>GBM</VendorId>
+		<VendorDescription>Godfrey Blasio Muhinda</VendorDescription>
+</AddIn>
+</RevitAddIns>

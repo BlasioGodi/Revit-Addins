@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyNinthPlugin\bin\Debug\MyNinthPlugin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyNinthPlugin\bin\Debug\MyNinthPlugin.pdb
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyNinthPlugin\obj\Debug\MyNinthPlugin.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyNinthPlugin\obj\Debug\MyNinthPlugin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyNinthPlugin\obj\Debug\MyNinthPlugin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyNinthPlugin\obj\Debug\MyNinthPlugin.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\bin\x64\Debug\MyThirdAddin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\bin\x64\Debug\MyThirdAddin.pdb
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\obj\x64\Debug\MyThirdAddin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\obj\x64\Debug\MyThirdAddin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\obj\x64\Debug\MyThirdAddin.pdb
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\bin\x64\Debug\MyThirdAddin.dll.config
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\bin\x64\Debug\Microsoft.PowerBI.Api.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\bin\x64\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyThirdAddin\obj\x64\Debug\MyThirdAddin.csproj.CopyComplete

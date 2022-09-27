@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyTenthPlugin\bin\x64\Debug\MyTenthPlugin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyTenthPlugin\bin\x64\Debug\MyTenthPlugin.pdb
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyTenthPlugin\obj\x64\Debug\MyTenthPlugin.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyTenthPlugin\obj\x64\Debug\MyTenthPlugin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyTenthPlugin\obj\x64\Debug\MyTenthPlugin.dll
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyTenthPlugin\obj\x64\Debug\MyTenthPlugin.pdb
+C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\MyTenthPlugin\obj\x64\Debug\MyTenthPlugin.csproj.AssemblyReference.cache
