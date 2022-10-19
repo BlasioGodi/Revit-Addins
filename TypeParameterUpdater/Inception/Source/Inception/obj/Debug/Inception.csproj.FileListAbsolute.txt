@@ -1,5 +1,0 @@
-C:\Users\user\AppData\Local\Temp\db9a557d-9d9a-4c32-b558-baab3ee27e14\Revit\DocHookups27132\2783108872192\Inception\AddIn\Inception.dll
-C:\Users\user\AppData\Local\Temp\db9a557d-9d9a-4c32-b558-baab3ee27e14\Revit\DocHookups27132\2783108872192\Inception\AddIn\Inception.pdb
-C:\Users\user\AppData\Local\Temp\db9a557d-9d9a-4c32-b558-baab3ee27e14\Revit\DocHookups27132\2783108872192\Inception\Source\Inception\obj\Debug\Inception.dll
-C:\Users\user\AppData\Local\Temp\db9a557d-9d9a-4c32-b558-baab3ee27e14\Revit\DocHookups27132\2783108872192\Inception\Source\Inception\obj\Debug\Inception.pdb
-C:\Users\user\AppData\Local\Temp\db9a557d-9d9a-4c32-b558-baab3ee27e14\Revit\DocHookups27132\2783108872192\Inception\Source\Inception\obj\Debug\Inception.csprojResolveAssemblyReference.cache
