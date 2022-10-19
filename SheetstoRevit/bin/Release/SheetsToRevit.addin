@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>SheetsToRevit</Name>
+		<Assembly>C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\SheetsToRevit\bin\x64\Debug\SheetsToRevit.dll</Assembly>
+		<AddInId>25349d74-f1a0-4a9c-bbed-ad33a684c3e0</AddInId>
+		<FullClassName>SheetsToRevit.SheetsToRevit</FullClassName>
+		<VendorId>GBM</VendorId>
+		<VendorDescription>Godfrey Muhinda Blasio</VendorDescription>
+	</AddIn>
+</RevitAddIns>

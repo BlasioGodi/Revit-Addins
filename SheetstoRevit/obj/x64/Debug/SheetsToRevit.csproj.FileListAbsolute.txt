@@ -21,3 +21,27 @@ C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\SheetsTo
 C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\SheetsToRevit\bin\x64\Debug\zh-CN\AdWindows.resources.dll
 C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\SheetsToRevit\bin\x64\Debug\zh-TW\AdWindows.resources.dll
 C:\Users\user\Desktop\Computer Science\2. Projects\Projects2-RevitAddin\SheetsToRevit\obj\x64\Debug\SheetsToRevit.csproj.CopyComplete
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\SheetsToRevit.addin
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\SheetsToRevit.dll
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\SheetsToRevit.pdb
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\AdWindows.dll
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\UIFramework.dll
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\cs-CZ\AdWindows.resources.dll
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\de-DE\AdWindows.resources.dll
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\en-GB\AdWindows.resources.dll
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\en-US\AdWindows.resources.dll
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\es-ES\AdWindows.resources.dll
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\fr-FR\AdWindows.resources.dll
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\it-IT\AdWindows.resources.dll
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\ja-JP\AdWindows.resources.dll
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\ko-KR\AdWindows.resources.dll
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\pl-PL\AdWindows.resources.dll
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\pt-BR\AdWindows.resources.dll
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\ru-RU\AdWindows.resources.dll
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\zh-CN\AdWindows.resources.dll
+D:\Git\Revit-Addins\SheetstoRevit\bin\x64\Debug\zh-TW\AdWindows.resources.dll
+D:\Git\Revit-Addins\SheetstoRevit\obj\x64\Debug\SheetsToRevit.csproj.AssemblyReference.cache
+D:\Git\Revit-Addins\SheetstoRevit\obj\x64\Debug\SheetsToRevit.csproj.CoreCompileInputs.cache
+D:\Git\Revit-Addins\SheetstoRevit\obj\x64\Debug\SheetsToRevit.csproj.CopyComplete
+D:\Git\Revit-Addins\SheetstoRevit\obj\x64\Debug\SheetsToRevit.dll
+D:\Git\Revit-Addins\SheetstoRevit\obj\x64\Debug\SheetsToRevit.pdb

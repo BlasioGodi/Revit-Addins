@@ -6,6 +6,9 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
     <StartProgram>D:\Program Files\Revit 2021\Revit.exe</StartProgram>
-    <StartAction>Program</StartAction>
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartProgram>D:\Program Files\Revit 2021\Revit.exe</StartProgram>
   </PropertyGroup>
 </Project>
