@@ -1,0 +1,13 @@
+C:\Users\user\AppData\Local\Temp\db9a557d-9d9a-4c32-b558-baab3ee27e14\Revit\DocHookups27132\2783108872192\Inception_Child\AddIn\Inception_Child.dll
+C:\Users\user\AppData\Local\Temp\db9a557d-9d9a-4c32-b558-baab3ee27e14\Revit\DocHookups27132\2783108872192\Inception_Child\AddIn\Inception_Child.pdb
+C:\Users\user\AppData\Local\Temp\db9a557d-9d9a-4c32-b558-baab3ee27e14\Revit\DocHookups27132\2783108872192\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child.dll
+C:\Users\user\AppData\Local\Temp\db9a557d-9d9a-4c32-b558-baab3ee27e14\Revit\DocHookups27132\2783108872192\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child.pdb
+C:\Users\user\AppData\Local\Temp\db9a557d-9d9a-4c32-b558-baab3ee27e14\Revit\DocHookups27132\2783108872192\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child.csprojResolveAssemblyReference.cache
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child.csproj.AssemblyReference.cache
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\WindowDia.baml
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\WindowDia.g.cs
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child_MarkupCompile.cache
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child.g.resources
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child.csproj.CoreCompileInputs.cache
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child.dll
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child.pdb
