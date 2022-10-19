@@ -1,8 +1,15 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-# SharpDevelop 4.2.0.8798-adsk-contrib/Revit/4.2/Macro-SharpDevelop
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inception", "Inception\Inception.csproj", "{9D06AE0D-F521-413A-B37B-EFC4A8B25254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inception_Child", "..\..\Inception_Child\Source\Inception_Child\Inception_Child.csproj", "{DB8CF1EA-53C2-4A62-9DF7-13A43FA8476E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{8B7C7CC2-5644-4640-89F9-C5503EAD2464}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RevitAPIParUpdater", "RevitAPIParUpdater\RevitAPIParUpdater.vdproj", "{2B199E8C-7420-412B-B5CC-9A854B005969}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,9 +17,25 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9D06AE0D-F521-413A-B37B-EFC4A8B25254}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D06AE0D-F521-413A-B37B-EFC4A8B25254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9D06AE0D-F521-413A-B37B-EFC4A8B25254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D06AE0D-F521-413A-B37B-EFC4A8B25254}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D06AE0D-F521-413A-B37B-EFC4A8B25254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D06AE0D-F521-413A-B37B-EFC4A8B25254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB8CF1EA-53C2-4A62-9DF7-13A43FA8476E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8CF1EA-53C2-4A62-9DF7-13A43FA8476E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8CF1EA-53C2-4A62-9DF7-13A43FA8476E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8CF1EA-53C2-4A62-9DF7-13A43FA8476E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7C7CC2-5644-4640-89F9-C5503EAD2464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7C7CC2-5644-4640-89F9-C5503EAD2464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7C7CC2-5644-4640-89F9-C5503EAD2464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7C7CC2-5644-4640-89F9-C5503EAD2464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B199E8C-7420-412B-B5CC-9A854B005969}.Debug|Any CPU.ActiveCfg = Debug
+		{2B199E8C-7420-412B-B5CC-9A854B005969}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {697695FC-43DD-419A-A7DE-08E4F0D5B569}
 	EndGlobalSection
 EndGlobal
