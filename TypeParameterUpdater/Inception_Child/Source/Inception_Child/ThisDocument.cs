@@ -29,8 +29,39 @@ namespace Inception_Child
 
 		}
 
-		#region Revit Macros generated code
-		private void InternalStartup()
+        //this is is the method that invoked from outside
+        public Result OpenWindowForm(ExternalCommandData commandData, ref string message, ElementSet elements)
+        {
+            UIDocument uidoc = commandData.Application.ActiveUIDocument;
+
+            if (uidoc.Selection.GetElementIds().Count != 1)
+            {
+                TaskDialog.Show("Me", "Please only select one entity");
+                return Result.Succeeded;
+            }
+
+            try
+            {
+                WindowDia myWindow1 = new WindowDia(uidoc);
+
+                myWindow1.Show();
+            }
+
+            #region catch and finally
+            catch (Exception ex)
+            {
+                System.Windows.MessageBox.Show(ex.Message);
+            }
+            finally
+            {
+            }
+            #endregion
+
+            return Result.Succeeded;
+        }
+
+        #region Revit Macros generated code
+        private void InternalStartup()
 		{
 			this.Startup += new System.EventHandler(Module_Startup);
 			this.Shutdown += new System.EventHandler(Module_Shutdown);

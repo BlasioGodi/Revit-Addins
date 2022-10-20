@@ -3,3 +3,13 @@ C:\Users\user\AppData\Local\Temp\db9a557d-9d9a-4c32-b558-baab3ee27e14\Revit\DocH
 C:\Users\user\AppData\Local\Temp\db9a557d-9d9a-4c32-b558-baab3ee27e14\Revit\DocHookups27132\2783108872192\Inception\Source\Inception\obj\Debug\Inception.dll
 C:\Users\user\AppData\Local\Temp\db9a557d-9d9a-4c32-b558-baab3ee27e14\Revit\DocHookups27132\2783108872192\Inception\Source\Inception\obj\Debug\Inception.pdb
 C:\Users\user\AppData\Local\Temp\db9a557d-9d9a-4c32-b558-baab3ee27e14\Revit\DocHookups27132\2783108872192\Inception\Source\Inception\obj\Debug\Inception.csprojResolveAssemblyReference.cache
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception\Source\Inception\obj\Debug\Inception.csproj.CoreCompileInputs.cache
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception\Source\Inception\obj\Debug\Inception.dll
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception\Source\Inception\obj\Debug\Inception.pdb
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception\Addin\012 Button Image Properties Grid.png
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception\Addin\013 Button Image Uninstall.png
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception\Addin\Inception.dll.config
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception\Addin\Inception.dll
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception\Addin\Inception.pdb
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception\Source\Inception\obj\Debug\Inception.csproj.CopyComplete
+D:\Git\Revit-Addins\TypeParameterUpdater\Inception\Source\Inception\obj\Debug\Inception.csproj.AssemblyReference.cache
