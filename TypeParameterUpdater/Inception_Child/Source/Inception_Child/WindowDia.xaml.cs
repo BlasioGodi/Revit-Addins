@@ -49,8 +49,6 @@ namespace Inception_Child
             uidoc = uid;
             doc = uidoc.Document;
 
-            PropertyGrid myPG = new PropertyGrid();
-
             Element myElement = doc.GetElement(uidoc.Selection.GetElementIds().First());
 
             myClass1_withEvent = new Class1_withEvent();

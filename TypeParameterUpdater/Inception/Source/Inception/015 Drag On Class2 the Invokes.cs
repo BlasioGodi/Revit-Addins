@@ -82,7 +82,7 @@ namespace Inception
     [Autodesk.Revit.Attributes.Transaction(Autodesk.Revit.Attributes.TransactionMode.Manual)]
     public class Invoke01 : IExternalCommand
     {
-        public string dllModuleName { get; set; } = "myChild1";
+        public string dllModuleName { get; set; } = "Inception_Child";
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
             try
@@ -114,7 +114,7 @@ namespace Inception
                 string path = Microsoft.Win32.Registry.LocalMachine.OpenSubKey("SOFTWARE\\BIM Experts\\RevitParUpdater").GetValue("TARGETDIR").ToString(); ;
 
                 Assembly objAssembly01 = Assembly.Load(File.ReadAllBytes(path + "\\" + dllModuleName + ".dll"));
-                string strCommandName = "ThisApplication";
+                string strCommandName = "ThisDocument";
 
                 IEnumerable<Type> myIEnumerableType = GetTypesSafely(objAssembly01);
                 foreach (Type objType in myIEnumerableType)
@@ -165,7 +165,7 @@ namespace Inception
     [Autodesk.Revit.Attributes.Transaction(Autodesk.Revit.Attributes.TransactionMode.Manual)]
     public class Invoke01Development : IExternalCommand
     {
-        public string dllModuleName { get; set; } = "myChild1";
+        public string dllModuleName { get; set; } = "Inception_Child";
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
             try
@@ -194,7 +194,7 @@ namespace Inception
 
                 Assembly objAssembly01 = Assembly.Load(File.ReadAllBytes(path + "\\" + dllModuleName + "\\AddIn\\" + dllModuleName + ".dll"));
 
-                string strCommandName = "ThisApplication";
+                string strCommandName = "ThisDocument";
 
                 IEnumerable<Type> myIEnumerableType = GetTypesSafely(objAssembly01);
                 foreach (Type objType in myIEnumerableType)

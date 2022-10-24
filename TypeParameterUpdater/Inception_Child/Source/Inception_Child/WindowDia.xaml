@@ -7,7 +7,7 @@
         <Button x:Name="Upgrade" Content="Upgrade" HorizontalAlignment="Left" Margin="10,0,0,10" VerticalAlignment="Bottom" Width="79" Click="Upgrade_Click"/>
         <Button x:Name="UpgradeAndClose" Content="UpgradeAndClose" Margin="103,0,0,10" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="139" Click="UpgradeAndClose_Click"/>
 
-        <xctk:PropertyGrid Margin="10,10,10,35"/>
+        <xctk:PropertyGrid x:Name="myPG" Margin="10,10,10,35"/>
 
     </Grid>
 </Window>

@@ -16,7 +16,7 @@ namespace ClassLibrary
 
         public override void Uninstall(System.Collections.IDictionary stateSaver)
         {
-            string sDir = Environment.GetFolderPath(Environment.SpecialFolder.CommonApplicationData) + "\\Autodesk\\Revit\\Addins\\2021";
+            string sDir = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Autodesk\\Revit\\Addins";
             bool exists = System.IO.Directory.Exists(sDir);
 
             //2 August 2019: Start, The next 3 lines were added in Take 10 in order prevent double loading of packages.
@@ -53,7 +53,7 @@ namespace ClassLibrary
             //2 August 2019: End.
 
 
-            string sDir = Environment.GetFolderPath(Environment.SpecialFolder.CommonApplicationData) + "\\Autodesk\\Revit\\Addins\\2021";
+            string sDir = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Autodesk\\Revit\\Addins";
             bool exists = System.IO.Directory.Exists(sDir);
 
             if (!exists) System.IO.Directory.CreateDirectory(sDir);
@@ -63,9 +63,9 @@ namespace ClassLibrary
             XElementAddIn.Add(new XElement("Name", myAddinDLL));
             XElementAddIn.Add(new XElement("Assembly", this.Context.Parameters["targetdir"].Trim() + myAddinDLL + ".dll"));  // /TargetDir=value1 /
             XElementAddIn.Add(new XElement("AddInId", Guid.NewGuid().ToString())); //DatabaseMethods.writeDebug(Guid.NewGuid().ToString());
-            XElementAddIn.Add(new XElement("FullClassName", myAddinDLL + ".ThisApplication"));
+            XElementAddIn.Add(new XElement("FullClassName", myAddinDLL + ".ThisDocument"));
             XElementAddIn.Add(new XElement("VendorId", "01"));
-            XElementAddIn.Add(new XElement("VendorDescription", "Joshua Lumley Secrets, twitter @joshnewzealand"));
+            XElementAddIn.Add(new XElement("VendorDescription", "Godfrey Blasio, twitter @TLiquidity1"));
 
             XElement XElementRevitAddIns = new XElement("RevitAddIns");
             XElementRevitAddIns.Add(XElementAddIn);

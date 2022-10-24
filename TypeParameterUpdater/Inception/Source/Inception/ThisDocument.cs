@@ -59,6 +59,7 @@ namespace Inception
 
         public Result OnStartup(UIControlledApplication a)
         {
+            
             ParentSupportMethods myParentSupportMethods = new ParentSupportMethods();
             myParentSupportMethods.myTA = this;
 
