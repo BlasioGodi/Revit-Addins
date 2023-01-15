@@ -15,3 +15,15 @@ D:\Git\Revit-Addins\TypeParameterUpdater\Inception_Child\Addin\Inception_Child.d
 D:\Git\Revit-Addins\TypeParameterUpdater\Inception_Child\Addin\Inception_Child.pdb
 D:\Git\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child.csproj.CopyComplete
 D:\Git\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child.csproj.AssemblyReference.cache
+Y:\Revit-Addins\TypeParameterUpdater\Inception_Child\Addin\Inception_Child.dll.config
+Y:\Revit-Addins\TypeParameterUpdater\Inception_Child\Addin\Inception_Child.dll
+Y:\Revit-Addins\TypeParameterUpdater\Inception_Child\Addin\Inception_Child.pdb
+Y:\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child.csproj.AssemblyReference.cache
+Y:\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\WindowDia.baml
+Y:\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\WindowDia.g.cs
+Y:\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child_MarkupCompile.cache
+Y:\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child.g.resources
+Y:\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child.csproj.CoreCompileInputs.cache
+Y:\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child.csproj.CopyComplete
+Y:\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child.dll
+Y:\Revit-Addins\TypeParameterUpdater\Inception_Child\Source\Inception_Child\obj\Debug\Inception_Child.pdb
