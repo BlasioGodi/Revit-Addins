@@ -1,2 +1,2 @@
 # Revit-Addins
-External Addins to increase functionality for BIM Revit
+External application Addins created for Autodesk Revit to increase functionality of the software and create custom software solutions for projects.
